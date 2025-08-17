@@ -3,7 +3,6 @@ Welcome to the official kickoff for our GenAI Exchange Hackathon project: "Artis
 
 Hey Team,
 
-Welcome to the official kickoff for our GenAI Exchange Hackathon project: "Artisan AI: A Marketplace for Local Creators."
 
 We have a fantastic opportunity to build something truly impactful, and we have until the first week of September to create a working prototype. The great news is we already have a mini frontend to build upon. My goal as team lead is to ensure we work smart, stay aligned, and have a great time bringing this idea to life.
 
