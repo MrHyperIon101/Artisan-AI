@@ -22,15 +22,15 @@ Team Roles & Primary Responsibilities
 
 To ensure we move fast and efficiently, here are our defined roles. While we'll all collaborate, this defines primary ownership.
 
-    Team Leader & Project Manager (Your Name): I will manage our project board (Trello/Jira), oversee the integration of all components, handle the final deployment, and prepare our presentation and demo video. I'm here to remove any roadblocks.
+    Team Leader & Project Manager (Souvik): I will manage our project board (GitHub), oversee the integration of all components, handle the final deployment, and prepare our presentation and demo video. I'm here to remove any roadblocks.
 
-    Frontend Lead (Person with the mini-frontend): You will own the User Interface and Experience (UI/UX). Your mission is to expand the existing frontend, build out all necessary React components and pages, and ensure the platform is beautiful, intuitive, and fully responsive.
+    Frontend Lead (Spandan): You will own the User Interface and Experience (UI/UX). Your mission is to expand the existing frontend, build out all necessary React components and pages, and ensure the platform is beautiful, intuitive, and fully responsive.
 
-    Backend Lead: You are the architect of our server-side logic. You'll be responsible for setting up the server, designing the database schema, and building the REST APIs that our frontend will communicate with.
+    Backend Lead (Kishalay and Shinas): You are the architect of our server-side logic. You'll be responsible for setting up the server, designing the database schema, and building the REST APIs that our frontend will communicate with.
 
-    AI/ML Lead: You will be the heart of our "GenAI" features. Your focus will be on mastering and integrating the Google Gemini API to power our core functionalities, starting with content generation and moving to semantic search.
+    AI/ML Lead(Shinas and Souvik): You will be the heart of our "GenAI" features. Your focus will be on mastering and integrating the Google Gemini API to power our core functionalities, starting with content generation and moving to semantic search.
 
-    Full-Stack & Testing Lead: You are the vital link between all parts of our stack. You'll work closely with the Frontend and Backend leads to ensure seamless API integration and lead our quality assurance efforts by testing endpoints and user flows.
+    Testing Lead (Evan): You are the vital link between all parts of our stack. You'll work closely with the Frontend and Backend leads to ensure seamless API integration and lead our quality assurance efforts by testing endpoints and user flows.
 
 Proposed Tech Stack
 
@@ -46,7 +46,7 @@ Let's lock in our tools so we can hit the ground running.
 
     Deployment: Vercel for the Frontend, Google Cloud Run for the Backend.
 
-    Collaboration: GitHub for version control, Trello for task management, and Discord/Slack for communication.
+    Collaboration: GitHub for version control, task management, and Discord/Slack for communication.
 
 Project Timeline: A 3-Week Sprint Plan
 
@@ -74,7 +74,7 @@ Goal: Build the skeleton of our application and get one core AI feature working 
 
         Key Task: Create a standalone script that takes a product title and a few keywords, and uses the Gemini API to generate a rich, story-driven product description. This is our first "wow" feature.
 
-    Full-Stack Lead:
+    Testing Lead:
 
         Assist the Backend lead with API setup.
 
@@ -82,7 +82,7 @@ Goal: Build the skeleton of our application and get one core AI feature working 
 
     Team Leader:
 
-        Set up GitHub repo, Trello board with Week 1 tasks, and our Discord/Slack channel.
+        Set up GitHub repo and board with Week 1 tasks, and our Discord/Slack channel.
 
 ✅ Milestone by Aug 24: A clickable frontend with mock data, a backend with working user authentication, and a successful demo of the AI product description generator script.
 
@@ -108,7 +108,7 @@ Goal: Connect all the pieces and build out the full user journey for an artisan.
 
         Key Task: Begin developing our second AI feature: AI-Powered Search. This involves using the Gemini API's embedding capabilities to turn product titles/descriptions into vectors, enabling natural language search (e.g., "show me rustic wooden bowls for a modern kitchen").
 
-    Full-Stack Lead:
+    Testing Lead:
 
         This is your crunch week! You'll be the primary integrator, ensuring the data flows smoothly from the frontend form, through the backend API, to the database.
 
@@ -134,7 +134,7 @@ Goal: Finalize the user experience, deploy the app, and prepare a winning presen
 
         Refine the prompts sent to the Gemini API for better and more consistent results.
 
-    Full-Stack Lead:
+    Testing Lead:
 
         Conduct end-to-end testing of the entire user journey.
 
